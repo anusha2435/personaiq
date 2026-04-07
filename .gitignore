@@ -1,0 +1,7 @@
+models/
+data/
+personaiq-env/
+__pycache__/
+*.pkl
+*.csv
+*.pyc
